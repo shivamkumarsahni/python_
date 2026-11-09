@@ -1,0 +1,3 @@
+python is a programming language.
+python is easy to learn.
+file handling in python.
